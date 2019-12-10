@@ -1,0 +1,24 @@
+{
+  "name": "clreq-css",
+  "version": "1.0.0",
+  "description": "An analysis of the current status of Chinese typography using web technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:huijing/clreq-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huijing/clreq-css/issues"
+  },
+  "homepage": "https://github.com/huijing/clreq-css#readme",
+  "dependencies": {
+     "vuepress": "^1.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
