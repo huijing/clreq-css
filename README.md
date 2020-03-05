@@ -2,6 +2,8 @@
 
 This document is a study of whether current HTML and CSS are sufficient for the layout of Chinese language documents. We aim to show which of the requirements covered in the [Requirements for Chinese Text Layout](https://www.w3.org/TR/clreq/) are covered by which CSS specifications and their corresponding browser support.
 
+Discussions and work on the Requirements for Chinese Text Layout document are documented on GitHub at the following repository: [https://github.com/w3c/clreq](https://github.com/w3c/clreq)
+
 ## Local development
 
 1. Clone the git repository
