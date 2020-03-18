@@ -5,7 +5,14 @@ module.exports = {
     sidebar: [
       '/',
       '/analysis',
-      '/references'
+      {
+        title: 'Explanatory notes',
+        path: '/notes',
+        children: [
+          '/notes/2-1-3'
+        ]
+      },
+      '/references',
     ],
     lastUpdated: 'Last Updated',
   }
