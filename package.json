@@ -20,6 +20,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "^1.3.0"
+    "vuepress": "^1.5.0"
   }
 }
